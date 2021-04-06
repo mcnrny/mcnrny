@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcnrny
 - 👀 I’m interested in photography 🤳🏻
-- 🌱 I’m currently learning python
+- 🌱 I’m learning python
 - 💞️ I’m looking to collaborate?
 - 📫 mcnrny@gmail.com
 
