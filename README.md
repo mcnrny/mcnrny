@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mcnrny
-- 👀 I’m interested in photography 🤳🏻
-- 🌱 I’m learning python
-- 💞️ I’m looking to collaborate?
-- 📫 mcnrny@gmail.com
+- 👋, I'm Brendan, a photographer who recently became interested in computer science. I aspire to be a doer of deeds, speaker of words and 📷 of 💭.
 
 <!---
 mcnrny/mcnrny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
